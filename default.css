@@ -85,6 +85,15 @@ img {
         background: #000000;
 	}
 
+    .about-photo
+    {
+        margin: 10px;
+        float: right;
+        max-width: 230px;
+        border: 5px solid #FFFFFF;
+        box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.2);
+    }
+
 	.image-left
 	{
 		float: left;
