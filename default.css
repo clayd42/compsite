@@ -87,6 +87,7 @@ img {
 
     .about-photo
     {
+        display: inline;
         margin: 10px;
         float: right;
         max-width: 230px;
@@ -707,6 +708,7 @@ hr {
 
     .about-photo
     {
+        display: inline;
         margin: 10px;
         float: right;
         max-width: 230px;
